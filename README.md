@@ -23,79 +23,133 @@ Rendered straight from the theme files by [`tools/render-previews.py`](tools/ren
 
 ## Dark
 
-### Ayu Dark
+<details>
+<summary><b>Ayu Dark</b></summary>
 
 ![Ayu Dark](previews/Ayu-Dark.svg)
 
-### Ayu Dark Vibrant
+</details>
+
+<details>
+<summary><b>Ayu Dark Vibrant</b></summary>
 
 ![Ayu Dark Vibrant](previews/Ayu-Dark-Vibrant.svg)
 
-### Ayu Neutral
+</details>
+
+<details>
+<summary><b>Ayu Neutral</b></summary>
 
 ![Ayu Neutral](previews/Ayu-Neutral.svg)
 
-### Ayu Neutral Vibrant
+</details>
+
+<details>
+<summary><b>Ayu Neutral Vibrant</b></summary>
 
 ![Ayu Neutral Vibrant](previews/Ayu-Neutral-Vibrant.svg)
 
-### Black & White
+</details>
+
+<details>
+<summary><b>Black & White</b></summary>
 
 ![Black & White](previews/Black-and-White.svg)
 
-### Comfort Amber Dark
+</details>
+
+<details>
+<summary><b>Comfort Amber Dark</b></summary>
 
 ![Comfort Amber Dark](previews/Comfort-Amber-Dark.svg)
 
-### Comfort Brown Dark
+</details>
+
+<details>
+<summary><b>Comfort Brown Dark</b></summary>
 
 ![Comfort Brown Dark](previews/Comfort-Brown-Dark.svg)
 
-### Comfort Red Mono
+</details>
+
+<details>
+<summary><b>Comfort Red Mono</b></summary>
 
 ![Comfort Red Mono](previews/Comfort-Red-Mono.svg)
 
-### Comfort Red Poly
+</details>
+
+<details>
+<summary><b>Comfort Red Poly</b></summary>
 
 ![Comfort Red Poly](previews/Comfort-Red-Poly.svg)
 
-### GitHub Dark
+</details>
+
+<details>
+<summary><b>GitHub Dark</b></summary>
 
 ![GitHub Dark](previews/GitHub-Dark.svg)
 
-### GitHub Dark Vibrant
+</details>
+
+<details>
+<summary><b>GitHub Dark Vibrant</b></summary>
 
 ![GitHub Dark Vibrant](previews/GitHub-Dark-Vibrant.svg)
 
+</details>
+
 ## Light
 
-### Ayu Light
+<details>
+<summary><b>Ayu Light</b></summary>
 
 ![Ayu Light](previews/Ayu-Light.svg)
 
-### Ayu Light Vibrant
+</details>
+
+<details>
+<summary><b>Ayu Light Vibrant</b></summary>
 
 ![Ayu Light Vibrant](previews/Ayu-Light-Vibrant.svg)
 
-### Comfort Amber Light
+</details>
+
+<details>
+<summary><b>Comfort Amber Light</b></summary>
 
 ![Comfort Amber Light](previews/Comfort-Amber-Light.svg)
 
-### Comfort Brown Light
+</details>
+
+<details>
+<summary><b>Comfort Brown Light</b></summary>
 
 ![Comfort Brown Light](previews/Comfort-Brown-Light.svg)
 
-### GitHub Light
+</details>
+
+<details>
+<summary><b>GitHub Light</b></summary>
 
 ![GitHub Light](previews/GitHub-Light.svg)
 
-### GitHub Light Vibrant
+</details>
+
+<details>
+<summary><b>GitHub Light Vibrant</b></summary>
 
 ![GitHub Light Vibrant](previews/GitHub-Light-Vibrant.svg)
 
-### White & Black
+</details>
+
+<details>
+<summary><b>White & Black</b></summary>
 
 ![White & Black](previews/White-and-Black.svg)
+
+</details>
 
 ## Tools
 
