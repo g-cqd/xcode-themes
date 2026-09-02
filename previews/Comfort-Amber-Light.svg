@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="571" viewBox="0 0 760 571" font-family="SF Mono, JetBrains Mono, Menlo, Consolas, monospace" font-size="13">
+<rect width="760" height="571" rx="10" fill="#f8f6ef"/>
+<rect x="0" y="91" width="760" height="21" fill="#403c2e" fill-opacity="0.06"/>
+<rect x="85.2" y="133" width="126.4" height="21" fill="#938447" fill-opacity="0.25"/>
+<text x="22" y="22" xml:space="preserve"><tspan fill="#534e3d" fill-opacity="0.440">// Xcode theme preview — Ayu, Comfort, GitHub…</tspan></text>
+<text x="22" y="43" xml:space="preserve"><tspan fill="#aa3f00">import </tspan><tspan fill="#7e5b11">SwiftUI</tspan></text>
+<text x="22" y="64" xml:space="preserve"></text>
+<text x="22" y="85" xml:space="preserve"><tspan fill="#534e3d" fill-opacity="0.550">/// A tiny view model showing every syntax color.</tspan></text>
+<text x="22" y="106" xml:space="preserve"><tspan fill="#804200">@Observable </tspan><tspan fill="#aa3f00">final class </tspan><tspan fill="#573300">Counter</tspan><tspan fill="#544e35"> {</tspan></text>
+<text x="22" y="127" xml:space="preserve"><tspan fill="#544e35">    </tspan><tspan fill="#aa3f00">var </tspan><tspan fill="#2a1e01">value</tspan><tspan fill="#544e35">: </tspan><tspan fill="#7e5b11">Int</tspan><tspan fill="#544e35"> = </tspan><tspan fill="#005e00">0</tspan></text>
+<text x="22" y="148" xml:space="preserve"><tspan fill="#544e35">    </tspan><tspan fill="#aa3f00">let </tspan><tspan fill="#2a1e01">label</tspan><tspan fill="#544e35"> = </tspan><tspan fill="#004b00">&quot;Count: \(value)&quot;</tspan></text>
+<text x="22" y="169" xml:space="preserve"><tspan fill="#544e35">    </tspan><tspan fill="#aa3f00">func </tspan><tspan fill="#2a1e01">bump</tspan><tspan fill="#544e35">(</tspan><tspan fill="#2a1e01">by</tspan><tspan fill="#544e35"> step: </tspan><tspan fill="#7e5b11">Int</tspan><tspan fill="#544e35">) { </tspan><tspan fill="#544e35">value</tspan><tspan fill="#544e35"> += </tspan><tspan fill="#544e35">step</tspan><tspan fill="#544e35"> }</tspan></text>
+<text x="22" y="190" xml:space="preserve"><tspan fill="#544e35">}</tspan></text>
+<text x="22" y="211" xml:space="preserve"></text>
+<text x="22" y="232" xml:space="preserve"><tspan fill="#aa3f00">struct </tspan><tspan fill="#573300">CounterView</tspan><tspan fill="#544e35">: </tspan><tspan fill="#7e5b11">View</tspan><tspan fill="#544e35"> {</tspan></text>
+<text x="22" y="253" xml:space="preserve"><tspan fill="#544e35">    </tspan><tspan fill="#804200">@State </tspan><tspan fill="#aa3f00">private var </tspan><tspan fill="#2a1e01">model</tspan><tspan fill="#544e35"> = </tspan><tspan fill="#573300">Counter</tspan><tspan fill="#544e35">()</tspan></text>
+<text x="22" y="274" xml:space="preserve"><tspan fill="#544e35">    </tspan><tspan fill="#aa3f00">var </tspan><tspan fill="#2a1e01">body</tspan><tspan fill="#544e35">: </tspan><tspan fill="#aa3f00">some </tspan><tspan fill="#7e5b11">View</tspan><tspan fill="#544e35"> {</tspan></text>
+<text x="22" y="295" xml:space="preserve"><tspan fill="#544e35">        </tspan><tspan fill="#7e5b11">Button</tspan><tspan fill="#544e35">(</tspan><tspan fill="#544e35">model</tspan><tspan fill="#544e35">.</tspan><tspan fill="#544e35">label</tspan><tspan fill="#544e35">) { </tspan><tspan fill="#544e35">model</tspan><tspan fill="#544e35">.</tspan><tspan fill="#323100">bump</tspan><tspan fill="#544e35">(by: </tspan><tspan fill="#005e00">1</tspan><tspan fill="#544e35">) }</tspan></text>
+<text x="22" y="316" xml:space="preserve"><tspan fill="#544e35">            .</tspan><tspan fill="#455504">padding</tspan><tspan fill="#544e35">(</tspan><tspan fill="#626000">.pi</tspan><tspan fill="#544e35"> * </tspan><tspan fill="#005e00">2</tspan><tspan fill="#544e35">)</tspan></text>
+<text x="22" y="337" xml:space="preserve"><tspan fill="#544e35">            .</tspan><tspan fill="#455504">accessibilityLabel</tspan><tspan fill="#544e35">(</tspan><tspan fill="#004b00">&quot;Increment&quot;</tspan><tspan fill="#544e35">)</tspan></text>
+<text x="22" y="358" xml:space="preserve"><tspan fill="#544e35">    </tspan><tspan fill="#544e35">}</tspan></text>
+<text x="22" y="379" xml:space="preserve"><tspan fill="#544e35">}</tspan></text>
+<text x="22" y="400" xml:space="preserve"></text>
+<text x="22" y="421" xml:space="preserve"><tspan fill="#bd5000">#if </tspan><tspan fill="#bd5000">DEBUG</tspan><tspan fill="#544e35">   </tspan><tspan fill="#534e3d" fill-opacity="0.825">// MARK: - Regex &amp; chars</tspan></text>
+<text x="22" y="442" xml:space="preserve"><tspan fill="#aa3f00">let </tspan><tspan fill="#2a1e01">re</tspan><tspan fill="#544e35"> = </tspan><tspan fill="#003600">/[a-z]+\d{2}/</tspan><tspan fill="#544e35">; </tspan><tspan fill="#aa3f00">let </tspan><tspan fill="#2a1e01">c</tspan><tspan fill="#544e35">: </tspan><tspan fill="#7e5b11">Character</tspan><tspan fill="#544e35"> = </tspan><tspan fill="#a15d00">&quot;x&quot;</tspan></text>
+<text x="22" y="463" xml:space="preserve"><tspan fill="#455504">print</tspan><tspan fill="#544e35">(</tspan><tspan fill="#004b00">&quot;https://developer.apple.com&quot;</tspan><tspan fill="#544e35">)</tspan></text>
+<text x="22" y="484" xml:space="preserve"><tspan fill="#bd5000">#endif</tspan></text>
+<rect x="22" y="511" width="50" height="22" rx="5" fill="#aa3f00" fill-opacity="1.000"><title>keyword</title></rect>
+<rect x="80" y="511" width="50" height="22" rx="5" fill="#573300" fill-opacity="1.000"><title>identifier.type</title></rect>
+<rect x="138" y="511" width="50" height="22" rx="5" fill="#7e5b11" fill-opacity="1.000"><title>identifier.type.system</title></rect>
+<rect x="196" y="511" width="50" height="22" rx="5" fill="#323100" fill-opacity="1.000"><title>identifier.function</title></rect>
+<rect x="254" y="511" width="50" height="22" rx="5" fill="#455504" fill-opacity="1.000"><title>identifier.function.system</title></rect>
+<rect x="312" y="511" width="50" height="22" rx="5" fill="#544e35" fill-opacity="1.000"><title>identifier.variable</title></rect>
+<rect x="370" y="511" width="50" height="22" rx="5" fill="#004b00" fill-opacity="1.000"><title>string</title></rect>
+<rect x="428" y="511" width="50" height="22" rx="5" fill="#005e00" fill-opacity="1.000"><title>number</title></rect>
+<rect x="486" y="511" width="50" height="22" rx="5" fill="#804200" fill-opacity="1.000"><title>attribute</title></rect>
+<rect x="544" y="511" width="50" height="22" rx="5" fill="#bd5000" fill-opacity="1.000"><title>preprocessor</title></rect>
+<rect x="602" y="511" width="50" height="22" rx="5" fill="#534e3d" fill-opacity="0.440"><title>comment</title></rect>
+<rect x="660" y="511" width="50" height="22" rx="5" fill="#544e35" fill-opacity="1.000"><title>plain</title></rect>
+</svg>

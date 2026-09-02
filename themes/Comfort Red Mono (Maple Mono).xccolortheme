@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>DVTConsoleDebuggerInputTextColor</key>
+	<string>0.980649 0.839920 0.822961 1.000000</string>
+	<key>DVTConsoleDebuggerInputTextFont</key>
+	<string>MapleMono-NF-CN-Regular - 12.0</string>
+	<key>DVTConsoleDebuggerOutputTextColor</key>
+	<string>0.980649 0.839920 0.822961 1.000000</string>
+	<key>DVTConsoleDebuggerOutputTextFont</key>
+	<string>MapleMono-NF-CN-Regular - 12.0</string>
+	<key>DVTConsoleDebuggerPromptTextColor</key>
+	<string>0.973982 0.473423 0.400424 1.000000</string>
+	<key>DVTConsoleDebuggerPromptTextFont</key>
+	<string>MapleMono-NF-CN-Bold - 12.0</string>
+	<key>DVTConsoleExectuableInputTextColor</key>
+	<string>0.980649 0.839920 0.822961 1.000000</string>
+	<key>DVTConsoleExectuableInputTextFont</key>
+	<string>MapleMono-NF-CN-Regular - 12.0</string>
+	<key>DVTConsoleExectuableOutputTextColor</key>
+	<string>0.980649 0.839920 0.822961 1.000000</string>
+	<key>DVTConsoleExectuableOutputTextFont</key>
+	<string>MapleMono-NF-CN-Regular - 12.0</string>
+	<key>DVTConsoleTextBackgroundColor</key>
+	<string>0.054726 0.023941 0.019936 1.000000</string>
+	<key>DVTConsoleTextInsertionPointColor</key>
+	<string>0.973982 0.473423 0.400424 1.000000</string>
+	<key>DVTConsoleTextSelectionColor</key>
+	<string>0.675986 0.464285 0.427940 0.300000</string>
+	<key>DVTDebuggerInstructionPointerColor</key>
+	<string>1.000000 0.874510 0.364706 0.500000</string>
+	<key>DVTFontAndColorVersion</key>
+	<integer>1</integer>
+	<key>DVTMarkupTextNormalColor</key>
+	<string>0.980649 0.839920 0.822961 1.000000</string>
+	<key>DVTSourceTextBackground</key>
+	<string>0.054726 0.023941 0.019936 1.000000</string>
+	<key>DVTSourceTextCurrentLineHighlightColor</key>
+	<string>1.000000 1.000000 1.000000 0.040000</string>
+	<key>DVTSourceTextInsertionPointColor</key>
+	<string>0.973982 0.473423 0.400424 1.000000</string>
+	<key>DVTSourceTextInvisiblesColor</key>
+	<string>0.176611 0.139875 0.134512 1.000000</string>
+	<key>DVTSourceTextSelectionColor</key>
+	<string>0.675986 0.464285 0.427940 0.300000</string>
+	<key>DVTSourceTextSyntaxColors</key>
+	<dict>
+		<key>xcode.syntax.attribute</key>
+		<string>0.944452 0.506240 0.499027 1.000000</string>
+		<key>xcode.syntax.character</key>
+		<string>0.914136 0.363726 0.334447 1.000000</string>
+		<key>xcode.syntax.comment</key>
+		<string>0.793425 0.726570 0.714336 0.440000</string>
+		<key>xcode.syntax.comment.doc</key>
+		<string>0.793425 0.726570 0.714336 0.550000</string>
+		<key>xcode.syntax.comment.doc.keyword</key>
+		<string>0.793425 0.726570 0.714336 0.687500</string>
+		<key>xcode.syntax.declaration.other</key>
+		<string>0.980649 0.839920 0.822961 1.000000</string>
+		<key>xcode.syntax.declaration.type</key>
+		<string>0.884399 0.585192 0.475256 1.000000</string>
+		<key>xcode.syntax.identifier.class</key>
+		<string>0.884399 0.585192 0.475256 1.000000</string>
+		<key>xcode.syntax.identifier.class.system</key>
+		<string>1.000000 0.423872 0.233746 1.000000</string>
+		<key>xcode.syntax.identifier.constant</key>
+		<string>0.995602 0.589972 0.549670 1.000000</string>
+		<key>xcode.syntax.identifier.constant.system</key>
+		<string>0.822323 0.490842 0.481161 1.000000</string>
+		<key>xcode.syntax.identifier.function</key>
+		<string>1.000000 0.641964 0.470215 1.000000</string>
+		<key>xcode.syntax.identifier.function.system</key>
+		<string>1.000000 0.483026 0.429724 1.000000</string>
+		<key>xcode.syntax.identifier.macro</key>
+		<string>0.914716 0.238481 0.165502 1.000000</string>
+		<key>xcode.syntax.identifier.macro.system</key>
+		<string>0.914716 0.238481 0.165502 1.000000</string>
+		<key>xcode.syntax.identifier.type</key>
+		<string>0.884399 0.585192 0.475256 1.000000</string>
+		<key>xcode.syntax.identifier.type.system</key>
+		<string>1.000000 0.423872 0.233746 1.000000</string>
+		<key>xcode.syntax.identifier.variable</key>
+		<string>0.817416 0.717869 0.699754 1.000000</string>
+		<key>xcode.syntax.identifier.variable.system</key>
+		<string>0.904421 0.466637 0.330252 1.000000</string>
+		<key>xcode.syntax.keyword</key>
+		<string>1.000000 0.277847 0.198108 1.000000</string>
+		<key>xcode.syntax.mark</key>
+		<string>0.793425 0.726570 0.714336 0.825000</string>
+		<key>xcode.syntax.markup.code</key>
+		<string>1.000000 0.558971 0.552092 1.000000</string>
+		<key>xcode.syntax.number</key>
+		<string>1.000000 0.538847 0.330023 1.000000</string>
+		<key>xcode.syntax.plain</key>
+		<string>0.817416 0.717869 0.699754 1.000000</string>
+		<key>xcode.syntax.preprocessor</key>
+		<string>0.914716 0.238481 0.165502 1.000000</string>
+		<key>xcode.syntax.regex</key>
+		<string>0.997448 0.768354 0.671802 1.000000</string>
+		<key>xcode.syntax.string</key>
+		<string>1.000000 0.677977 0.653779 1.000000</string>
+		<key>xcode.syntax.url</key>
+		<string>1.000000 0.677977 0.653779 1.000000</string>
+	</dict>
+	<key>DVTSourceTextSyntaxFonts</key>
+	<dict>
+		<key>xcode.syntax.attribute</key>
+		<string>MapleMono-NF-CN-Regular - 12.0</string>
+		<key>xcode.syntax.character</key>
+		<string>MapleMono-NF-CN-Regular - 12.0</string>
+		<key>xcode.syntax.comment</key>
+		<string>MapleMono-NF-CN-Regular - 12.0</string>
+		<key>xcode.syntax.comment.doc</key>
+		<string>MapleMono-NF-CN-Regular - 12.0</string>
+		<key>xcode.syntax.comment.doc.keyword</key>
+		<string>MapleMono-NF-CN-Bold - 12.0</string>
+		<key>xcode.syntax.declaration.other</key>
+		<string>MapleMono-NF-CN-SemiBold - 12.0</string>
+		<key>xcode.syntax.declaration.type</key>
+		<string>MapleMono-NF-CN-Bold - 12.0</string>
+		<key>xcode.syntax.identifier.class</key>
+		<string>MapleMono-NF-CN-Bold - 12.0</string>
+		<key>xcode.syntax.identifier.class.system</key>
+		<string>MapleMono-NF-CN-Regular - 12.0</string>
+		<key>xcode.syntax.identifier.constant</key>
+		<string>MapleMono-NF-CN-Regular - 12.0</string>
+		<key>xcode.syntax.identifier.constant.system</key>
+		<string>MapleMono-NF-CN-Regular - 12.0</string>
+		<key>xcode.syntax.identifier.function</key>
+		<string>MapleMono-NF-CN-Regular - 12.0</string>
+		<key>xcode.syntax.identifier.function.system</key>
+		<string>MapleMono-NF-CN-Regular - 12.0</string>
+		<key>xcode.syntax.identifier.macro</key>
+		<string>MapleMono-NF-CN-Regular - 12.0</string>
+		<key>xcode.syntax.identifier.macro.system</key>
+		<string>MapleMono-NF-CN-Regular - 12.0</string>
+		<key>xcode.syntax.identifier.type</key>
+		<string>MapleMono-NF-CN-Bold - 12.0</string>
+		<key>xcode.syntax.identifier.type.system</key>
+		<string>MapleMono-NF-CN-Regular - 12.0</string>
+		<key>xcode.syntax.identifier.variable</key>
+		<string>MapleMono-NF-CN-Regular - 12.0</string>
+		<key>xcode.syntax.identifier.variable.system</key>
+		<string>MapleMono-NF-CN-Regular - 12.0</string>
+		<key>xcode.syntax.keyword</key>
+		<string>MapleMono-NF-CN-Regular - 12.0</string>
+		<key>xcode.syntax.mark</key>
+		<string>MapleMono-NF-CN-Bold - 12.0</string>
+		<key>xcode.syntax.markup.code</key>
+		<string>MapleMono-NF-CN-Regular - 12.0</string>
+		<key>xcode.syntax.number</key>
+		<string>MapleMono-NF-CN-Regular - 12.0</string>
+		<key>xcode.syntax.plain</key>
+		<string>MapleMono-NF-CN-Regular - 12.0</string>
+		<key>xcode.syntax.preprocessor</key>
+		<string>MapleMono-NF-CN-Regular - 12.0</string>
+		<key>xcode.syntax.regex</key>
+		<string>MapleMono-NF-CN-Regular - 12.0</string>
+		<key>xcode.syntax.string</key>
+		<string>MapleMono-NF-CN-Regular - 12.0</string>
+		<key>xcode.syntax.url</key>
+		<string>MapleMono-NF-CN-Regular - 12.0</string>
+	</dict>
+</dict>
+</plist>
